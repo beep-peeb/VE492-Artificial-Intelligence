@@ -1,0 +1,2 @@
+correct = {'A':'2','B':'1'}
+success = result == correct
